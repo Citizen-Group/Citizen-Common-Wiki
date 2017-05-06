@@ -7,4 +7,4 @@ Please take few moments to review the wiki for improvements.
 Excellence in documentation quality benefits everyone.
 
 > #### Want to contribute to this Wiki?
-> [[Fork it and send a pull request.|Citizen-Common-Wiki]]
+> [[Fork it and send a pull request.|https://github.com/Citizen-Group/Citizen-Common-Wiki]]
