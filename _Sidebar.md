@@ -20,9 +20,9 @@
    - [[Requested Extensions]]
 
 **Documentation**
-   -[[Extensions]]
-   -[[API]]
-   -[[Visual Studio Code]]
-   -[[Document Repository]]
+   - [[Extensions]]
+   - [[API]]
+   - [[Visual Studio Code]]
+   - [[Document Repository]]
 
 
